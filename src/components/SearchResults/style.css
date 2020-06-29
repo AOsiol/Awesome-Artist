@@ -1,7 +1,7 @@
 .card {
   background: #fff;
   border-radius: 2px;
-  height: 350px;
+  height: 360px;
   margin: 1rem;
   position: relative;
   width: 325px;
@@ -10,10 +10,10 @@
 }
 
 .card > .img-container {
-  height: 60%;
+  height: 80%;
   overflow: hidden;
   text-align: center;
-  background: #6caddc;
+  background: #26578fec;
 }
 .card > .img-container > img {
   width: 60%;
@@ -31,7 +31,7 @@
 }
 
 .card > .content > ul > li {
-  margin-top: 18px;
+  margin-top: 10px;
 }
 
 .card > .remove {

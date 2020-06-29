@@ -8,10 +8,10 @@
   },
   {
     "id": 2,
-    "name": "Pablo Picasso",
-    "image": "https://www.christies.com/img/LotImages/2017/CKS/2017_CKS_13485_0036_000(pablo_picasso_oiseau).jpg",
-    "media": "sculpture",
-    "genre": "Cubism"
+    "name": "Philip Brou",
+    "image": "https://img-cache.oppcdn.com/img/v1.0/s:52238/t:QkxBTksrVEVYVCtIRVJF/p:12/g:tl/o:2.5/a:50/q:90/640x4096-bCw9TuXnHQVGSAEV.jpg/640x1011/e6a478c890d3d1604aa163f02a0e887d.jpg",
+    "media": "painting",
+    "genre": "Modernist"
   },
   {
     "id": 3,
@@ -53,6 +53,55 @@
     "name": "Richard Long",
     "image": "https://i.pinimg.com/originals/be/bf/d9/bebfd931845d08900ce457d6aae30fd1.jpg",
     "media": "sculpture",
+    "genre": "Modernist"
+  },
+  {
+    "id": 9,
+    "name": "Tim Harriss",
+    "image": "https://images.squarespace-cdn.com/content/v1/56fc18bcd210b8d44092fc4d/1538945877617-FF4ZLK5LPCI04WAQGD40/ke17ZwdGBToddI8pDm48kOAeVuVtFD-tVR6jCROtdrVZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFse0drKhI2PGrXK9uV7CHEoIarnSqqKJ9tdISisQUuASnnMmdGTM-FVWG-7MqDoS0/After+Frans+Hals_Sara+Wolpherts.jpg?format=500w",
+    "media": "painting",
+    "genre": "Modernist"
+  },
+  {
+    "id": 10,
+    "name": "Bob Gorman",
+    "image": "http://www.bobgorman.com/images/underground-artfest-poster.jpg",
+    "media": "painting",
+    "genre": "Modernist"
+  },
+  {
+    "id": 11,
+    "name": "Wangechi Mutu",
+    "image": "https://africa.si.edu/wp-content/uploads/2017-12-1_2016_Tree-Woman-1-248x360.jpeg",
+    "media": "sculpture",
+    "genre": "Modernist"
+  },
+  {
+    "id": 12,
+    "name": "Alberto Giacometti",
+    "image": "https://www.schirn.de/fileadmin/_processed_/csm_Schirn_Presse_GiacomettiNauman_Giacometti_Homme_qui_marche_1960_adc53d2eee.jpg",
+    "media": "sculpture",
+    "genre": "Modernist"
+  },
+  {
+    "id": 13,
+    "name": "Georgia O'Keeffe",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/O%27keeffe_-_%27Pineapple_Bud%27%2C_1939%2C_.JPG/220px-O%27keeffe_-_%27Pineapple_Bud%27%2C_1939%2C_.JPG",
+    "media": "sculpture",
+    "genre": "Modernist"
+  },
+  {
+    "id": 14,
+    "name": "Alfred Stieglitz",
+    "image": "https://www.moma.org/media/W1siZiIsIjIyNzk3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=f0647e7ae2c462c9",
+    "media": "photography",
+    "genre": "Modernist"
+  },
+  {
+    "id": 15,
+    "name": "Sally Mann",
+    "image": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2016/11/sallymann.jpg?fit=600%2C315&ssl=1",
+    "media": "photography",
     "genre": "Modernist"
   }
 ]

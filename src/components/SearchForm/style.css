@@ -1,9 +1,10 @@
-div.search {
+.search {
   overflow: auto;
-  margin-bottom: 10px;
+  margin-right: 40%;
+  margin-left: 40%;
 }
 
-div.search button[type="submit"] {
+.search button[type="submit"] {
   float: right;
   margin-top: 10px;
 }
