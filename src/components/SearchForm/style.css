@@ -1,0 +1,9 @@
+div.search {
+  overflow: auto;
+  margin-bottom: 10px;
+}
+
+div.search button[type="submit"] {
+  float: right;
+  margin-top: 10px;
+}
