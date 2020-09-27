@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Awesome-Artist/static/css/main.1cf1f909.chunk.css",
-    "main.js": "/Awesome-Artist/static/js/main.214fe711.chunk.js",
-    "main.js.map": "/Awesome-Artist/static/js/main.214fe711.chunk.js.map",
+    "main.js": "/Awesome-Artist/static/js/main.1ba96833.chunk.js",
+    "main.js.map": "/Awesome-Artist/static/js/main.1ba96833.chunk.js.map",
     "runtime-main.js": "/Awesome-Artist/static/js/runtime-main.9fe7f756.js",
     "runtime-main.js.map": "/Awesome-Artist/static/js/runtime-main.9fe7f756.js.map",
     "static/js/2.5f8071dc.chunk.js": "/Awesome-Artist/static/js/2.5f8071dc.chunk.js",
     "static/js/2.5f8071dc.chunk.js.map": "/Awesome-Artist/static/js/2.5f8071dc.chunk.js.map",
     "index.html": "/Awesome-Artist/index.html",
-    "precache-manifest.4272ac9be5e64ceb612a9bd54ea32af3.js": "/Awesome-Artist/precache-manifest.4272ac9be5e64ceb612a9bd54ea32af3.js",
+    "precache-manifest.4cec759ab0dd0b6ab3a46ea4304039a8.js": "/Awesome-Artist/precache-manifest.4cec759ab0dd0b6ab3a46ea4304039a8.js",
     "service-worker.js": "/Awesome-Artist/service-worker.js",
     "static/css/main.1cf1f909.chunk.css.map": "/Awesome-Artist/static/css/main.1cf1f909.chunk.css.map",
     "static/js/2.5f8071dc.chunk.js.LICENSE.txt": "/Awesome-Artist/static/js/2.5f8071dc.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9fe7f756.js",
     "static/js/2.5f8071dc.chunk.js",
     "static/css/main.1cf1f909.chunk.css",
-    "static/js/main.214fe711.chunk.js"
+    "static/js/main.1ba96833.chunk.js"
   ]
 }
