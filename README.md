@@ -12,4 +12,4 @@ This is an app that allows the user to search through a collection of works of a
 
 ### Link
 
-- https://aosiol.github.io/awesome-artist/
+- https://aosiol.github.io/Awesome-Artist/
