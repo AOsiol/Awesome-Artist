@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Awesome-Artist/static/css/main.1cf1f909.chunk.css",
+    "main.js": "/Awesome-Artist/static/js/main.b1ce8b2b.chunk.js",
+    "main.js.map": "/Awesome-Artist/static/js/main.b1ce8b2b.chunk.js.map",
+    "runtime-main.js": "/Awesome-Artist/static/js/runtime-main.9fe7f756.js",
+    "runtime-main.js.map": "/Awesome-Artist/static/js/runtime-main.9fe7f756.js.map",
+    "static/js/2.5f8071dc.chunk.js": "/Awesome-Artist/static/js/2.5f8071dc.chunk.js",
+    "static/js/2.5f8071dc.chunk.js.map": "/Awesome-Artist/static/js/2.5f8071dc.chunk.js.map",
+    "index.html": "/Awesome-Artist/index.html",
+    "precache-manifest.d0f9764dacabeeb9df6a54708a101927.js": "/Awesome-Artist/precache-manifest.d0f9764dacabeeb9df6a54708a101927.js",
+    "service-worker.js": "/Awesome-Artist/service-worker.js",
+    "static/css/main.1cf1f909.chunk.css.map": "/Awesome-Artist/static/css/main.1cf1f909.chunk.css.map",
+    "static/js/2.5f8071dc.chunk.js.LICENSE.txt": "/Awesome-Artist/static/js/2.5f8071dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fe7f756.js",
+    "static/js/2.5f8071dc.chunk.js",
+    "static/css/main.1cf1f909.chunk.css",
+    "static/js/main.b1ce8b2b.chunk.js"
+  ]
+}
